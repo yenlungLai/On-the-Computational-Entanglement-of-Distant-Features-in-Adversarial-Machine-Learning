@@ -1,0 +1,8 @@
+Adversarial examples in machine learning has emerged as a focal point of research due to their remarkable ability to deceive
+models with seemingly inconspicuous input perturbations, potentially resulting in severe consequences. In this study, we undertake a
+thorough investigation into the emergence of adversarial examples, a phenomenon that can, in principle, manifest in a wide range of
+machine learning models. Through our research, we unveil a new notion termed computational entanglement, with its ability to entangle
+distant features, display perfect correlations or anti-correlations regardless to their spatial separation, significantly contributes to the
+emergence of adversarial examples. We illustrate how computational entanglement harmonizes with relativistic effects such as time
+dilation and length contraction ultimately results in the convergence of angular differences and distances towards zero, signifying perfect
+correlation, or in opposite towards the maximum angular differences and distances, indicating perfect anti-correlation.
