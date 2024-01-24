@@ -2,3 +2,5 @@
 Research peper link: https://arxiv.org/abs/2309.15669
 
 Research on adversarial examples in machine learning has become pivotal due to their knack for misleading models with subtle input changes, posing serious risks. Our investigation highlights computational entanglement as a key factor in generating adversarial examples across various machine learning models. We demonstrate how computational entanglement, intertwined with relativistic effects like time dilation and length contraction, leads to perfect correlations or anti-correlations among spatially distant features, resulting in minimized or maximized angular differences and distances, respectively.
+
+The exeriment source code is in matlab. There is also python implementation of the encoding function in Encoding.ipynb.
